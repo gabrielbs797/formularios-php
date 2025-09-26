@@ -12,6 +12,9 @@
     <br><code>php -S localhost:8000</code></p>
 
     <p><a href="get-form.php">Formulário com GET</a>
-    <br><a href="post-form.php">Formulário com POST</a></p>
+    <br><a href="post-form.php">Formulário com POST</a>
+
+    <br><br><a href="/formulario-25-09-25-endereco/endereco.php">Formulário de endereço</a>
+    <br><a href="/formulario-25-09-25-calculadora/calculadora.php">Formulário de calculadora</a></p>
 </body>
 </html>
